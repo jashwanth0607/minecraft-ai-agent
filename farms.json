@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Simple Iron Farm",
+        "category": "Iron Farm",
+        "edition": "Java",
+        "version": "1.21",
+        "difficulty": "Easy",
+        "build_time": "15 minutes",
+        "materials": [
+            "Beds",
+            "Villagers",
+            "Hopper",
+            "Chest",
+            "Building blocks"
+        ],
+        "rate": "Depends on design"
+    },
+    {
+        "name": "Basic Creeper Farm",
+        "category": "Mob Farm",
+        "edition": "Java",
+        "version": "1.21",
+        "difficulty": "Medium",
+        "build_time": "45 minutes",
+        "materials": [
+            "Building blocks",
+            "Trapdoors",
+            "Hoppers",
+            "Chests"
+        ],
+        "rate": "Depends on design"
+    },
+    {
+        "name": "Simple Sugarcane Farm",
+        "category": "Crop Farm",
+        "edition": "Java",
+        "version": "1.21",
+        "difficulty": "Easy",
+        "build_time": "10 minutes",
+        "materials": [
+            "Sugarcane",
+            "Sand",
+            "Water",
+            "Pistons",
+            "Observers"
+        ],
+        "rate": "Depends on design"
+    }
+]
