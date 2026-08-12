@@ -1,0 +1,299 @@
+[
+  {
+    "name": "Beginner Iron Farm",
+    "category": "Iron Farm",
+    "edition": "Java",
+    "versions": [
+      "1.21+"
+    ],
+    "difficulty": "Easy",
+    "build_time": "15-30 minutes",
+    "materials": [
+      {
+        "item": "Beds",
+        "quantity": "3"
+      },
+      {
+        "item": "Villagers",
+        "quantity": "3"
+      },
+      {
+        "item": "Chest",
+        "quantity": "2"
+      },
+      {
+        "item": "Hoppers",
+        "quantity": "3"
+      },
+      {
+        "item": "Building blocks",
+        "quantity": "as required"
+      },
+      {
+        "item": "Water bucket",
+        "quantity": "1"
+      },
+      {
+        "item": "Lava bucket",
+        "quantity": "1"
+      }
+    ],
+    "steps": [
+      "Choose a location away from other village-related setups and prepare a safe build area.",
+      "Build the villager sleeping area and place the required beds.",
+      "Move the villagers into their intended positions and make sure they can interact with the required village components.",
+      "Build the iron-golem spawning platform and collection area.",
+      "Place water so spawned golems are moved toward the collection area.",
+      "Set up the hopper and chest collection system.",
+      "If the selected design uses a hostile mob to control villager behavior, secure it so villagers cannot be harmed.",
+      "Test the farm and check where golems spawn.",
+      "Verify that drops reach the hoppers and chest."
+    ],
+    "mechanics": "Iron farms depend on villager and iron-golem spawning mechanics. Exact requirements vary by edition and design.",
+    "rate": "Varies by design and conditions; do not assume a universal hourly rate.",
+    "troubleshooting": [
+      "No golems: verify the villagers, beds, and required village conditions for the exact design.",
+      "Golems outside the farm: inspect nearby valid spawning surfaces.",
+      "No item collection: check water flow, hopper orientation, and chest connections.",
+      "Low output: make sure the farm remains loaded and nearby mechanics are not interfering."
+    ],
+    "sources": [
+      {
+        "title": "CraftMC Minecraft Iron Farm Guide",
+        "url": "https://www.craftmc.net/guides/how-to-build-an-iron-farm-in-minecraft"
+      },
+      {
+        "title": "12tails Iron Golem Farm Guide",
+        "url": "https://www.12tails.com/games/minecraft/how-to-build-an-iron-golem-farm-in-minecraft"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Minecraft 1.21+ Java Iron Farm Tutorials",
+        "url": "https://www.youtube.com/results?search_query=Minecraft+1.21+Java+iron+farm+tutorial"
+      }
+    ]
+  },
+  {
+    "name": "Beginner Creeper Farm",
+    "category": "Mob Farm",
+    "edition": "Java",
+    "versions": [
+      "1.21+"
+    ],
+    "difficulty": "Medium",
+    "build_time": "45-90 minutes",
+    "materials": [
+      {
+        "item": "Solid building blocks",
+        "quantity": "varies by design"
+      },
+      {
+        "item": "Trapdoors",
+        "quantity": "varies by design"
+      },
+      {
+        "item": "Hoppers",
+        "quantity": "varies by design"
+      },
+      {
+        "item": "Chests",
+        "quantity": "varies by design"
+      },
+      {
+        "item": "Carpet",
+        "quantity": "varies by design"
+      }
+    ],
+    "steps": [
+      "Choose a location suitable for the selected design and prepare the collection area.",
+      "Build the lower collection chamber with chests and hoppers.",
+      "Build the spawning platforms using the dimensions specified by the source design.",
+      "Place trapdoors and other blocks used to control mob spawning.",
+      "Add the water channels or flushing mechanism used by the design.",
+      "Build the drop or kill area and connect it to the collection system.",
+      "Add the required mob-height restrictions exactly as shown in the selected tutorial.",
+      "Create a safe AFK position at the distance recommended by the design.",
+      "Test the farm and check that creepers reach the collection area."
+    ],
+    "mechanics": "Creeper farms rely on hostile-mob spawning rules and designs that restrict the spawning pool toward creepers. Rates depend on design and spawning conditions.",
+    "rate": "Highly design-dependent. Do not use another design's advertised rate for this farm.",
+    "troubleshooting": [
+      "Few creepers: check AFK distance and competing mob-spawn locations.",
+      "Other mobs spawning: verify the design's carpet/trapdoor/light arrangement.",
+      "Creepers not reaching collection: check water channels and drop geometry.",
+      "Low rates: reduce competing spawn spaces where the design recommends it."
+    ],
+    "sources": [
+      {
+        "title": "Planet Minecraft - Easy Creeper Farm, Java 1.21+",
+        "url": "https://www.planetminecraft.com/project/easy-creeper-farm/"
+      },
+      {
+        "title": "CurseForge - Creeper Farm, 1.21",
+        "url": "https://www.curseforge.com/minecraft/worlds/best-minecraft-creeper-farm-no-cats-26k-h"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Creeper Farm - Minecraft Tutorial - Java & Bedrock 1.21+",
+        "url": "https://www.youtube.com/watch?v=DDsZ3oftl7Y",
+        "note": "The video description contains a dimension correction; verify the corrected layout before building."
+      }
+    ]
+  },
+  {
+    "name": "Automatic Sugar Cane Farm",
+    "category": "Crop Farm",
+    "edition": "Java",
+    "versions": [
+      "1.21+"
+    ],
+    "difficulty": "Easy",
+    "build_time": "10-20 minutes",
+    "materials": [
+      {
+        "item": "Sugar cane",
+        "quantity": "as required"
+      },
+      {
+        "item": "Sand or suitable planting block",
+        "quantity": "as required"
+      },
+      {
+        "item": "Water",
+        "quantity": "as required"
+      },
+      {
+        "item": "Pistons",
+        "quantity": "based on farm length"
+      },
+      {
+        "item": "Observers",
+        "quantity": "based on farm length"
+      },
+      {
+        "item": "Redstone dust",
+        "quantity": "based on design"
+      },
+      {
+        "item": "Hopper/chest",
+        "quantity": "optional collection system"
+      }
+    ],
+    "steps": [
+      "Choose a flat location close enough to remain loaded while you use the farm.",
+      "Create a row or platform containing water and the blocks on which sugar cane can be planted.",
+      "Plant sugar cane beside the water.",
+      "Place pistons so they can break the upper growth.",
+      "Place observers to detect growth if using an observer-based automatic design.",
+      "Connect observers to the pistons with redstone.",
+      "Build the collection area using water, hoppers, or another collection method.",
+      "Test the redstone circuit and confirm that growing sugar cane is harvested automatically.",
+      "Keep the farm inside loaded chunks when you need it to operate."
+    ],
+    "mechanics": "Sugar cane grows under its normal growth conditions. Automatic designs detect growth and break the upper portion so the lower plant remains.",
+    "rate": "Depends on farm size, random growth, and whether the area stays loaded.",
+    "troubleshooting": [
+      "Sugar cane not growing: verify the planting block and adjacent water.",
+      "Pistons not firing: check observer orientation and redstone connections.",
+      "Items missing: check collection water and hopper/chest connections.",
+      "Farm stops while away: make sure relevant chunks remain loaded."
+    ],
+    "sources": [
+      {
+        "title": "CurseForge - Fast & Expandable Sugar Cane Farm, Minecraft 1.21.3",
+        "url": "https://www.curseforge.com/minecraft/worlds/fast-expandable-sugar-cane-farm-minecraft-1-21"
+      },
+      {
+        "title": "Instructables - How to Build a Sugar Cane Farm",
+        "url": "https://www.instructables.com/How-to-Build-a-Sugar-Cane-Farm-in-Minecraft/"
+      },
+      {
+        "title": "Planet Minecraft - 1.21 Java Sugar Cane Farm",
+        "url": "https://www.planetminecraft.com/project/sugar-cane-farm-6723411/"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Minecraft 1.21+ Automatic Sugar Cane Farm Tutorials",
+        "url": "https://www.youtube.com/results?search_query=Minecraft+1.21+automatic+sugar+cane+farm+tutorial"
+      }
+    ]
+  },
+  {
+    "name": "Simple Gold Farm",
+    "category": "Gold Farm",
+    "edition": "Java",
+    "versions": [
+      "1.21"
+    ],
+    "difficulty": "Hard",
+    "build_time": "60-120 minutes",
+    "materials": [
+      {
+        "item": "Magma blocks",
+        "quantity": "about 7 stacks for the referenced design"
+      },
+      {
+        "item": "Glass",
+        "quantity": "about 6 stacks for the referenced design"
+      },
+      {
+        "item": "Hoppers",
+        "quantity": "27 for the referenced design"
+      },
+      {
+        "item": "Chests",
+        "quantity": "19 for the referenced design"
+      },
+      {
+        "item": "Obsidian",
+        "quantity": "10 for the referenced design"
+      },
+      {
+        "item": "Trapdoors",
+        "quantity": "8 for the referenced design"
+      },
+      {
+        "item": "Turtle egg",
+        "quantity": "1"
+      },
+      {
+        "item": "Scaffolding",
+        "quantity": "about 2 stacks for the referenced design"
+      }
+    ],
+    "steps": [
+      "Choose a safe Nether location appropriate for the design.",
+      "Prepare the portal and collection area according to the selected tutorial.",
+      "Build the spawning platforms using the specified blocks and dimensions.",
+      "Install the turtle egg and trapdoor arrangement used by the design.",
+      "Build the drop and collection system with hoppers and chests.",
+      "Complete the surrounding glass or spawning-control structure.",
+      "Create the AFK position specified by the tutorial.",
+      "Test spawning and item collection.",
+      "Use the exact dimensions and material counts from the linked tutorial for the full build."
+    ],
+    "mechanics": "The referenced Java design uses zombified piglin spawning and movement toward a turtle egg, followed by collection and killing for gold-related drops.",
+    "rate": "The linked tutorial advertises approximately 26 gold blocks per hour for its design; actual rates depend on conditions.",
+    "troubleshooting": [
+      "Low spawning: verify AFK position and spawning conditions.",
+      "Mobs not moving: check turtle egg and trapdoor arrangement.",
+      "Drops not collected: inspect hopper orientation and chest connections.",
+      "Unsafe construction: build and test sections carefully in the Nether."
+    ],
+    "sources": [
+      {
+        "title": "BasicRedstone Gold Farm 1.21 Java Tutorial",
+        "url": "https://www.youtube.com/watch?v=ExZFKhsRHNs"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Minecraft Gold Farm 1.21 Java Tutorial",
+        "url": "https://www.youtube.com/watch?v=ExZFKhsRHNs"
+      }
+    ]
+  }
+]
